@@ -1,0 +1,26 @@
+.btn1{
+    background-color: green;
+    margin-left: 45px;
+}
+
+.btn2{
+    background-color: palevioletred;
+    margin-left: 50px;
+}
+
+
+input { margin-bottom: 20px; }
+
+form{
+    background-color: rgb(18, 18, 83);
+display:block;
+
+}
+.contact{
+    background-color: orange;
+    box-sizing: content-box;
+}
+.btns{
+    background-color: orange;
+    box-sizing: content-box;
+}
